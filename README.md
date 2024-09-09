@@ -7,6 +7,13 @@ The Breakdown Company Database is a comprehensive database system designed to ma
 * Breakdown Logging: Record breakdown incidents with vehicle, engineer, time and location details.
 * Engineer Assignment: Assign engineers to breakdown incidents and track their involvement.
 * Data Analysis: Query the database to analyze breakdwon patterns and optimize resources.
-## How It Works
-The system integrates member, vehicle, and engineer data, ensuring accuracy and accessibility. It facilitates:
+## Installation
+### 1. Clone the repository:
+       git clone https://github.com/sibel2024/Breakdown-Company.git
+### 2. Set up the database schema using the provided SQL script.
+### 3. Load the sample data (if needed) to test the system.
+## Usage
+* Run SQL queries to retrieve member, vehicle, breakdown, and engineer data.
+* Perform CRUD operations to manage the database and analyze breakdown incidents.
+
 
